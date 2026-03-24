@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./img/github-header-banner.png" width="100%"/>
-</p>
+<div align="center">
 
 ```text
   _               _                   
@@ -11,7 +9,6 @@
  |_|\___/ \_/\_/ |_|_| |_|\__, /_/\_\ 
                            __/ |      
                           |___/
-
 ```
 <div align="center">
   <samp>
