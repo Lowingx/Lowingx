@@ -35,9 +35,10 @@
 
 <br>
 
-### 📈 /usr/bin/stats
+###  /usr/bin/stats
 <p align="center">
-  <img src="https://github-stats.com/api?username=Lowingx&background_color=2B2420&title_color=C4A580&text_color=EBDBB2&icon_color=8B6144" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lowingx&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true" />
+</p>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2B2420&height=50&section=footer" width="100%" />
