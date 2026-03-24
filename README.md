@@ -8,7 +8,7 @@
     Minimalist dev wandering through Assembly 8086 and MX Linux.
   </samp>
   <br>
-  <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/refs/heads/main/1.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/refs/heads/main/1.gif" width=100%/>
 </p>
 
 <details align="center">
