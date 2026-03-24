@@ -63,7 +63,7 @@
 </p>
 
 <details>
-<summary>Rest at Bonfire</summary>
+<p>Rest at Bonfire</p>
 <p align="center">
   <br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100px"/>
