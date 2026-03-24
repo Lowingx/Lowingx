@@ -62,8 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lowingx&layout=compact&theme=gruvbox&bg_color=282828&hide_border=false" width="41%" />
 </p>
 
-<details>
-<p>Rest at Bonfire</p>
+<summary>Rest at Bonfire</summary>
 <p align="center">
   <br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100px"/>
