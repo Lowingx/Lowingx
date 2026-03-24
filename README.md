@@ -2,12 +2,24 @@
   <img src="./img/github-header-banner.png" width="100%"/>
 </p>
 
+```text
+  _               _                   
+ | |             (_)                  
+ | | _____      ___ _ __   __ ___  __ 
+ | |/ _ \ \ /\ / / | '_ \ / _` \ \/ / 
+ | | (_) \ V  V /| | | | | (_| |>  <  
+ |_|\___/ \_/\_/ |_|_| |_|\__, /_/\_\ 
+                           __/ |      
+                          |___/
+
+```
 <div align="center">
   <samp>
     <h3>🕵️ System Information</h3>
     <b>OS:</b> MX Linux | <b>Terminal:</b> Kitty + Zellij | <b>Shell:</b> Zsh
   </samp>
 </div>
+
 
 ---
 
