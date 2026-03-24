@@ -1,6 +1,5 @@
 <div align="center">
-
-```text
+<pre>
   _               _                   
  | |             (_)                  
  | | _____      ___ _ __   __ ___  __ 
@@ -8,21 +7,19 @@
  | | (_) \ V  V /| | | | | (_| |>  <  
  |_|\___/ \_/\_/ |_|_| |_|\__, /_/\_\ 
                            __/ |      
-                          |___/
-```
-<div align="center">
+                          |___/       
+</pre>
   <samp>
-    <h3>🕵️ System Information</h3>
+    <h3>System Information</h3>
     <b>OS:</b> MX Linux | <b>Terminal:</b> Kitty + Zellij | <b>Shell:</b> Zsh
   </samp>
 </div>
 
-
 ---
 
-### 🛠️ Lab & Toolset
+### Lab & Toolset
 
-#### 📜 Scripting & Web (JS, React, Node)
+#### Scripting & Web (JS, React, Node)
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -31,7 +28,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🐍 Python, Automation & Data
+#### Python, Automation & Data
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -40,7 +37,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-#### 🔐 Security & Research (Manual Focus)
+#### Security & Research (Manual Focus)
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white" />
@@ -48,7 +45,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-#### ⚡ Workflow & Environment
+#### Workflow & Environment
 <p align="left">
   <img src="https://img.shields.io/badge/Zellij-FFB86C?style=for-the-badge&logo=zellij&logoColor=black" />
   <img src="https://img.shields.io/badge/Kitty-F8A02E?style=for-the-badge&logo=kitty&logoColor=black" />
@@ -59,21 +56,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lowingx&show_icons=true&theme=gruvbox&bg_color=282828&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lowingx&layout=compact&theme=gruvbox&bg_color=282828&hide_border=false" width="41%" />
 </p>
 
 <details>
-<summary><b>☕ Coffee Break</b></summary>
+<summary>Rest at Bonfire</summary>
 <p align="center">
+  <br>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100px"/>
   <br>
   <samp>Manual exploitation mindset. ACME user.</samp>
 </p>
 </details>
-
-<p align="center">
-  <img src="./img/footer.jpg" width="100%"/>
-</p>
