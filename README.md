@@ -2,43 +2,59 @@
   <img src="./img/github-header-banner.png" width="100%"/>
 </p>
 
-<p align="center">
+<div align="center">
   <samp>
-    Hello world! I'm <b>Lowingx</b>. <br>
-    Minimalist dev wandering through Assembly 8086 and MX Linux.
+    <h3>🕵️ System Information</h3>
+    <b>OS:</b> MX Linux | <b>Terminal:</b> Zellij + Alacritty | <b>Shell:</b> Zsh
   </samp>
-  <br>
-  <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/refs/heads/main/1.gif" width=100%/>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Workflow
+
+#### 💻 Languages & Low Level
+<p align="left">
+  <img src="https://img.shields.io/badge/Assembly-2E3C43?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<details align="center">
-  <summary><b><samp> ☕ Take a break (Rest at Bonfire) </samp></b></summary>
-  <samp>
-    <h2 style="color: #8B6144">B O N F I R E &nbsp; L I T !</h2>
-    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="150"/>
-    <br>
-    <i>"Do not hope for a better world. Create one."</i>
-    <br><br>
-    <b>Current Lab:</b> <a href="https://github.com/Lowingx">Learning Assembly & C++</a>
-  </samp>
+#### 🔐 Cybersecurity & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF6600?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-F12E2E?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4F5D95?style=for-the-badge&logo=nmap&logoColor=white" />
+</p>
 
-  <p align="center">
-    <a href="https://github.com/Lowingx">
-      <img src="https://img.shields.io/badge/GITHUB-2B2420?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    &nbsp;
-    <a href="#">
-      <img src="https://img.shields.io/badge/LINKEDIN-8B6144?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </p>
+#### ⚡ IDEs & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zellij-FFB86C?style=for-the-badge&logo=zellij&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats (Gruvbox Edition)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lowingx&show_icons=true&theme=gruvbox&bg_color=282828&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lowingx&layout=compact&theme=gruvbox&bg_color=282828&hide_border=false" width="41%" />
+</p>
+
+<details>
+<summary><b>☕ Coffee Break (Rest at Bonfire)</b></summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100px"/>
+  <br>
+  <samp>Checkpoint reached. All progress saved.</samp>
+</p>
 </details>
 
-<br>
-
-###  /usr/bin/stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lowingx&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true" />
+  <img src="./img/footer.jpg" width="100%"/>
 </p>
-</p>
-
 <img src="./img/footer.jpg" width="100%"/>
