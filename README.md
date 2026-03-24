@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=282828&height=150&section=header&text=Lowingx&fontSize=70&fontColor=ebdbb2&fontFamily=Comic%20Sans%20MS" width="100%"/>
+  <img src="./img/github-header-banner.png" width="100%"/>
 </p>
 
 <p align="center">
@@ -41,4 +41,4 @@
 </p>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2B2420&height=50&section=footer" width="100%" />
+<img src="./img/footer.jpg" width="100%"/>
