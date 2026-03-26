@@ -36,8 +36,7 @@
 
 ### Metrics
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Lowingx&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Lowingx&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true" width="41%" />
+  <img src="github-metrics.svg" />
 </p>
 
 ---
