@@ -36,8 +36,8 @@
 
 ### Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lowingx&show_icons=true&theme=gruvbox_light&bg_color=EADBB2&hide_border=true&title_color=3C3836&text_color=3C3836&icon_color=427B58" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lowingx&layout=compact&theme=gruvbox_light&bg_color=EADBB2&hide_border=true&title_color=3C3836&text_color=3C3836" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lowingx&show_icons=true&theme=gruvbox_light&bg_color=EADBB2&title_color=3C3836&text_color=3C3836&icon_color=427B58&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lowingx&layout=compact&theme=gruvbox_light&bg_color=EADBB2&title_color=3C3836&text_color=3C3836&hide_border=true" width="41%" />
 </p>
 
 ---
