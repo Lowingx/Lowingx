@@ -18,7 +18,6 @@ Construo pipelines de detecção, telemetria de segurança e ferramentas focadas
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🌍 Open to Opportunities
 ### 🛠️ Tech Stack
 
 **Detection & SOC**
@@ -44,7 +43,6 @@ Construo pipelines de detecção, telemetria de segurança e ferramentas focadas
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🌍 Open to Opportunities
 ### 🛡️ Detection Skills
 - Detecção de brute-force SSH e HTTP
 - Identificação de credential spraying
@@ -56,6 +54,7 @@ Construo pipelines de detecção, telemetria de segurança e ferramentas focadas
 - OPSEC avançado
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### 🔥 Threat Detection Pipeline Projects
 - **NexusRecon** — Pipeline completo de reconhecimento automatizado (amass + subfinder + assetfinder + nuclei + relatório PDF)
 - **LogAnalyzer** — Motor de detecção de brute-force SSH/HTTP com classificação de severidade e alertas em tempo real
@@ -65,8 +64,6 @@ Construo pipelines de detecção, telemetria de segurança e ferramentas focadas
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lowingx&theme=synthwave-84&hide_border=true" alt="Activity Graph" />
 </div>
