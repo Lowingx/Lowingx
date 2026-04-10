@@ -75,7 +75,7 @@ Estou aberta a posições **junior** em:
 ---
 
 **Vamos conversar?**  
-- LinkedIn: [seu-perfil](link)  
-- Email: seu@email.com  
+- LinkedIn: [seu-perfil](www.linkedin.com/in/gustavo-almeida-ti/)  🏳️‍⚧️
+- Email: 
 
 *Building security telemetry pipelines and detection-focused tooling for Blue Team environments.*
