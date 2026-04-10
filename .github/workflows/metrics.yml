@@ -24,7 +24,7 @@ jobs:
           config_skip_empty: true
           config_order: header, activity, community, languages, repositories, metadata
 
-          plugin_activity: true
+          plugin_activity: false
           plugin_activity_limit: 15
           plugin_activity_days: 90
           plugin_activity_visibility: public
