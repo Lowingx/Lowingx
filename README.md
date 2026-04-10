@@ -14,7 +14,7 @@
 
 **Olá, eu sou a Evy.**
 
-Construo pipelines de detecção, telemetria de segurança e ferramentas focadas em Blue Team. Apaixonada por Linux, automação, OPSEC e análise de ameaças. Meu objetivo é me mudar para a Europa (Portugal ou Finlândia preferencialmente) em 2026 para atuar como Analista SOC ou Detection Engineer.
+Construo pipelines de detecção, telemetria de segurança e ferramentas focadas em Blue Team. Apaixonada por Linux, automação, OPSEC e análise profunda de ameaças. Meu objetivo é me tornar uma **Investigadora Cibernética**, atuando em análise forense digital, threat hunting avançado e resposta a incidentes, com o propósito de trabalhar como Analista SOC ou Cyber Forensics Investigator.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -76,13 +76,15 @@ Estou aberta a posições **junior** em:
 - SOC Analyst
 - Threat Detection / Detection Engineering
 - Security Operations
-- Recon Automation / Red Team Support
+- Recon Automation / Cyber Forensics
 
 **Open to relocation to the EU (Portugal / Finland preferred)** — Disponível a partir de 2026.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 **Vamos conversar?**
-- LinkedIn: [Aqui!](https://www.linkedin.com/in/gustavo-almeida-ti/) 🏳️‍⚧️
-- Email: lowingx@proton.me
+- **LinkedIn:** [Aqui!](https://www.linkedin.com/in/gustavo-almeida-ti/) 🏳️‍⚧️
+- **Email:** lowingx@proton.me
+- **Pronouns:** she/her
+- **Name:** Evellyn
 
 *Building security telemetry pipelines and detection-focused tooling for Blue Team environments.*
