@@ -1,40 +1,33 @@
 name: GitHub Metrics Embed
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 3 * * *"      # Executa todo dia às 03:00 (horário de Brasília)
-  workflow_dispatch:         # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Lowingx
-
           template: classic
           base: header, activity, community, repositories, languages, metadata
-
           config_timezone: America/Sao_Paulo
           config_skip_empty: true
           config_order: header, activity, community, languages, repositories, metadata
-
           plugin_activity: false
-          plugin_activity_limit: 15
-          plugin_activity_days: 90
-          plugin_activity_visibility: public
-
           plugin_languages: true
           plugin_languages_limit: 10
           plugin_languages_details: percentage, bytes-size, most-used
           plugin_languages_sections: most-used
-
           plugin_isocalendar: true
           plugin_isocalendar_duration: full-year
-
           filename: github-metrics.svg
           output: svg
