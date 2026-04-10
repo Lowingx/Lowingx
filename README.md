@@ -57,9 +57,9 @@ Construo pipelines de detecção, telemetria de segurança e ferramentas focadas
 
 ---
 
-### 📊 GitHub Metrics
-![Metrics](github-metrics.svg)
+### 📊 GitHub Activity & Skills
 
+![Metrics](https://metrics.lecoq.io/Lowingx?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata%2Clanguages%2Cisocalendar&config.timezone=America%2FSao_Paulo)
 ---
 
 ### 🌍 Open to Opportunities
