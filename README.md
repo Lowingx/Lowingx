@@ -59,7 +59,7 @@ Construo pipelines de detecção, telemetria de segurança e ferramentas focadas
 
 ### 📊 GitHub Activity & Skills
 
-![Metrics](workflows/metrics.yml)
+![Metrics](github-metrics.svg)
 ---
 
 ### 🌍 Open to Opportunities
