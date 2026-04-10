@@ -78,7 +78,7 @@ Estou aberta a posições **junior** em:
 - Security Operations
 - Recon Automation / Cyber Forensics
 
-**Open to relocation to the EU (Portugal / Finland preferred)** — Disponível a partir de 2026.
+**Open to relocation to the EU (Portugal / United Kingdom preferred)** — Disponível a partir de 2027.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 **Vamos conversar?**
