@@ -13,7 +13,6 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@v3.34
         with:
-          # Seu usuário
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Lowingx
 
