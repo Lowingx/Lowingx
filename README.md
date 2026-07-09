@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Lowingx" />
 
@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-🏳️‍⚧️-0a0805?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0a0805)](https://www.linkedin.com/in/gustavo-almeida-ti/)
 [![Discord](https://img.shields.io/badge/Discord-athenna__sec-0a0805?style=for-the-badge&logo=discord&logoColor=c9a227&labelColor=0a0805)](https://discord.com/users/athenna_sec)
 
-</div>
+</p>
 
 ## 力 · Sobre Mim
 
@@ -41,7 +41,7 @@ Onde quero estar: universidade na China, pesquisando BCI.
 
 ## 力 · Stack
 
-<div align="center">
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0805?style=for-the-badge&logo=python&logoColor=c9a227&labelColor=0a0805)
 ![Rust](https://img.shields.io/badge/Rust-0a0805?style=for-the-badge&logo=rust&logoColor=c9a227&labelColor=0a0805)
@@ -53,7 +53,7 @@ Onde quero estar: universidade na China, pesquisando BCI.
 ![Neovim](https://img.shields.io/badge/Neovim-0a0805?style=for-the-badge&logo=neovim&logoColor=c9a227&labelColor=0a0805)
 ![Zed](https://img.shields.io/badge/Zed-0a0805?style=for-the-badge&logo=zed&logoColor=c9a227&labelColor=0a0805)
 
-</div>
+</p>
 
 ## 力 · 普通话
 
@@ -89,8 +89,8 @@ Onde quero estar: universidade na China, pesquisando BCI.
 - Safety MCU independente para emergências
 - Firmware em Rust para tempo real
 
-<div align="center">
+<p align="center">
 
 **力**
 
-</div>
+</p>
