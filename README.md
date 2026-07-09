@@ -16,8 +16,6 @@
 
 </div>
 
----
-
 ## 力 · Sobre Mim
 
 <img align="right" width="250" src="assets/avatar.svg" alt="Lowingx" />
@@ -28,8 +26,6 @@ Onde estou agora: Brasil, último ano do ensino médio, aprendendo mandarim HSK2
 Onde quero estar: universidade na China, pesquisando BCI.
 
 <br clear="right"/>
-
----
 
 ## 力 · O Que Estou Fazendo
 
@@ -42,8 +38,6 @@ Onde quero estar: universidade na China, pesquisando BCI.
 | EEG / sinais neurais | 📚 Estudando |
 | Mandarim | 📚 HSK2 |
 | Arduino / ESP32 | 📚 Praticando |
-
----
 
 ## 力 · Stack
 
@@ -61,8 +55,6 @@ Onde quero estar: universidade na China, pesquisando BCI.
 
 </div>
 
----
-
 ## 力 · 普通话
 
 > *千里之行，始于足下*
@@ -74,8 +66,6 @@ Onde quero estar: universidade na China, pesquisando BCI.
 | HSK 3 | 🎯 2026 |
 | HSK 4 | 🎯 2027 |
 
----
-
 ## 力 · Mapa
 
 ```
@@ -83,8 +73,6 @@ Onde quero estar: universidade na China, pesquisando BCI.
 2027 ─── Certificações
 2028 ─── China → Universidade
 ```
-
----
 
 ## 力 · exo-power-suit
 
@@ -100,8 +88,6 @@ Onde quero estar: universidade na China, pesquisando BCI.
 - Predição 50ms antes do movimento
 - Safety MCU independente para emergências
 - Firmware em Rust para tempo real
-
----
 
 <div align="center">
 
