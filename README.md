@@ -16,7 +16,7 @@
 
 </p>
 
-## 力 · Sobre Mim
+## 愛 · Sobre Mim
 
 <img align="right" width="250" src="assets/avatar.svg" alt="Lowingx" />
 
@@ -27,7 +27,7 @@ Onde quero estar: universidade na China, pesquisando BCI.
 
 <br clear="right"/>
 
-## 力 · O Que Estou Fazendo
+## 愛 · O Que Estou Fazendo
 
 > *千里之行，始于足下*
 
@@ -39,7 +39,7 @@ Onde quero estar: universidade na China, pesquisando BCI.
 | Mandarim | 📚 HSK2 |
 | Arduino / ESP32 | 📚 Praticando |
 
-## 力 · Stack
+## 愛 · Stack
 
 <p align="center">
 
@@ -55,7 +55,7 @@ Onde quero estar: universidade na China, pesquisando BCI.
 
 </p>
 
-## 力 · 普通话
+## 愛 · 普通话
 
 > *千里之行，始于足下*
 
@@ -66,7 +66,7 @@ Onde quero estar: universidade na China, pesquisando BCI.
 | HSK 3 | 🎯 2026 |
 | HSK 4 | 🎯 2027 |
 
-## 力 · Mapa
+## 愛 · Mapa
 
 ```
 2026 ─── Fundamentos
@@ -74,7 +74,7 @@ Onde quero estar: universidade na China, pesquisando BCI.
 2028 ─── China → Universidade
 ```
 
-## 力 · exo-power-suit
+## 愛 · exo-power-suit
 
 <img src="assets/banner1.png" width="100%" alt="exo-power-suit" />
 
@@ -91,6 +91,6 @@ Onde quero estar: universidade na China, pesquisando BCI.
 
 <p align="center">
 
-**力**
+**愛**
 
 </p>
