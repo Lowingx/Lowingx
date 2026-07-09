@@ -49,9 +49,28 @@ Onde quero estar: universidade na China, pesquisando BCI.
 
 ![Python](https://img.shields.io/badge/Python-0a0805?style=for-the-badge&logo=python&logoColor=c9a227&labelColor=0a0805)
 ![Rust](https://img.shields.io/badge/Rust-0a0805?style=for-the-badge&logo=rust&logoColor=c9a227&labelColor=0a0805)
+![C++](https://img.shields.io/badge/C++-0a0805?style=for-the-badge&logo=cplusplus&logoColor=c9a227&labelColor=0a0805)
+![SQL](https://img.shields.io/badge/SQL-0a0805?style=for-the-badge&logo=postgresql&logoColor=c9a227&labelColor=0a0805)
 ![Linux](https://img.shields.io/badge/Linux-0a0805?style=for-the-badge&logo=linux&logoColor=c9a227&labelColor=0a0805)
+![Git](https://img.shields.io/badge/Git-0a0805?style=for-the-badge&logo=git&logoColor=c9a227&labelColor=0a0805)
+![Arduino](https://img.shields.io/badge/Arduino-0a0805?style=for-the-badge&logo=arduino&logoColor=c9a227&labelColor=0a0805)
+![ESP32](https://img.shields.io/badge/ESP32-0a0805?style=for-the-badge&logo=espressif&logoColor=c9a227&labelColor=0a0805)
+![Neovim](https://img.shields.io/badge/Neovim-0a0805?style=for-the-badge&logo=neovim&logoColor=c9a227&labelColor=0a0805)
+![Zed](https://img.shields.io/badge/Zed-0a0805?style=for-the-badge&logo=zed&logoColor=c9a227&labelColor=0a0805)
 
 </div>
+
+**Python:** Pydantic · Uvicorn · FastAPI · NumPy · MNE-Python · Scikit-learn
+
+**Redes:** TCP/IP · OSI · DNS · Routing · Switching · VPN · Firewall · Wireless · RF · Mesh · VoIP · Cloud Networking · Network Security
+
+**Linux:** Servidores · Shell · Segurança · Embarcados
+
+**Cybersegurança:** MITRE ATT&CK · Pentest · SOC · SIEM · Incident Response
+
+**Hardware:** Arduino · ESP32 · Raspberry Pi · Eletrônica · Soldagem
+
+**Dev Tools:** Neovim · Zed · Git · Linux
 
 ---
 
@@ -75,6 +94,14 @@ Onde quero estar: universidade na China, pesquisando BCI.
 2027 ─── Certificações
 2028 ─── China → Universidade
 ```
+
+---
+
+## 力 · Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lowingx-100d08?style=for-the-badge&logo=github&logoColor=c9a227&labelColor=0a0805)](https://github.com/Lowingx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--almeida-100d08?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0a0805)](https://www.linkedin.com/in/gustavo-almeida-ti/)
+[![Discord](https://img.shields.io/badge/Discord-athenna__sec-100d08?style=for-the-badge&logo=discord&logoColor=c9a227&labelColor=0a0805)](https://discord.com/users/athenna_sec)
 
 ---
 
