@@ -20,10 +20,10 @@
 
 <img align="right" width="250" src="assets/avatar.svg" alt="Lowingx" />
 
-Estudante de engenharia neural em formação. Aprendendo Python, Rust e EEG enquanto construo o caminho para a China.
+Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
 
-Onde estou agora: Brasil, último ano do ensino médio, aprendendo mandarim HSK2.
-Onde quero estar: universidade na China, pesquisando BCI.
+Onde estou agora: Brasil, estudando, aprendendo HSK2.
+Onde quero estar: universidade na China, engenharia.
 
 <br clear="right"/>
 
