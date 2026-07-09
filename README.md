@@ -1,90 +1,102 @@
 <div align="center">
-<pre>
- ▄█        ▄██████▄   ▄█     █▄   ▄█  ███▄▄▄▄      ▄██████▄  ▀████    ▐████▀
-███       ███    ███ ███     ███ ███  ███▀▀▀██▄   ███    ███   ███▌   ████▀ 
-███       ███    ███ ███     ███ ███▌ ███   ███   ███    █▀     ███  ▐███   
-███       ███    ███ ███     ███ ███▌ ███   ███  ▄███           ▀███▄███▀   
-███       ███    ███ ███     ███ ███▌ ███   ███ ▀▀███ ████▄     ████▀██▄    
-███       ███    ███ ███     ███ ███  ███   ███   ███    ███   ▐███  ▀███   
-███▌    ▄ ███    ███ ███ ▄█▄ ███ ███  ███   ███   ███    ███  ▄███     ███▄ 
-█████▄▄██  ▀██████▀   ▀███▀███▀  █▀    ▀█   █▀    ████████▀  ████       ███▄
-</pre>
 
-<h3 align="center">Cybersecurity | Linux | SOC | Threat Detection | Recon Automation</h3>
+<img src="assets/hero.svg" width="100%" alt="Lowingx" />
 
-**Olá, eu sou a Evy.**
+<br/>
 
-Construo pipelines de detecção, telemetria de segurança e ferramentas focadas em Blue Team. Apaixonada por Linux, automação, OPSEC e análise profunda de ameaças. Meu objetivo é me tornar uma **Investigadora Cibernética**, atuando em análise forense digital, threat hunting avançado e resposta a incidentes, com o propósito de trabalhar como Analista SOC ou Cyber Forensics Investigator.
+# Lowingx
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+### 神经工程 · Estudante de Engenharia Neural
 
-### 🛠️ Tech Stack
+*"O corpo é o último hardware não documentado."*
 
-**Detection & SOC**
-- Threat Detection • Log Correlation • Honeypots • Telemetria
-- Wazuh • MITRE ATT&CK • NIST CSF • ISO 27001 • OWASP Top 10
+[![GitHub](https://img.shields.io/badge/GitHub-0a0805?style=for-the-badge&logo=github&logoColor=c9a227&labelColor=0a0805)](https://github.com/Lowingx)
 
-**Recon & Automation**
-- Reconnaissance pipelines • Subdomain enumeration • Nuclei • FFUF
-- Python • Bash • Wireshark • Tcpdump • Burp Suite
-
-**Development & Infrastructure**
-- Docker • GitHub Actions • Linux Hardening • DevSecOps
-- FastAPI • React • Vite • JWT • Pydantic • Alembic
-
-**Databases**
-- PostgreSQL • SQLite • Apache Cassandra (em estudo)
-
-**Em Estudo**
-- ASM 8086 (Assembly x86)
-- C++ (long term)
-- Exploit development e ferramentas de segurança em C/C++
-- Preparação para certificação eJPT
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### 🛡️ Detection Skills
-- Detecção de brute-force SSH e HTTP
-- Identificação de credential spraying
-- Fingerprinting de ferramentas de reconnaissance
-- Detecção de probing em endpoints sensíveis (.env, wp-admin, phpmyadmin)
-- Correlação de logs entre múltiplos serviços
-- Análise de telemetria e criação de regras de detecção
-- Investigação forense em dispositivos Linux
-- OPSEC avançado
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### 🔥 Threat Detection Pipeline Projects
-- **NexusRecon** — Pipeline completo de reconhecimento automatizado (amass + subfinder + assetfinder + nuclei + relatório PDF)
-- **LogAnalyzer** — Motor de detecção de brute-force SSH/HTTP com classificação de severidade e alertas em tempo real
-- **Honeypot** — Sensor de engano (SSH + HTTP) integrado com análise de telemetria e Wazuh
-- **GBE Security Module** — DevSecOps aplicado em projeto real (autenticação segura, rate limiting, JWT hardening)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- Line -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lowingx&theme=synthwave-84&hide_border=true" alt="Activity Graph" />
 </div>
 
-<!-- Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-### 🌍 Open to Opportunities
-Estou aberta a posições **junior** em:
-- SOC Analyst
-- Threat Detection / Detection Engineering
-- Security Operations
-- Recon Automation / Cyber Forensics
+## 力 · Sobre Mim
 
-**Open to relocation to the EU (Portugal / United Kingdom preferred)** — Disponível a partir de 2027.
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img align="right" width="250" src="assets/avatar.svg" alt="Lowingx" />
 
-**Vamos conversar?**
-- **LinkedIn:** [Aqui!](https://www.linkedin.com/in/gustavo-almeida-ti/) 🏳️‍⚧️
-- **Email:** lowingx@proton.me
-- **Pronouns:** she/her
-- **Name:** Evellyn
+Estudante de engenharia neural em formação. Aprendendo Python, Rust e EEG enquanto construo o caminho para a China.
 
-*Building security telemetry pipelines and detection-focused tooling for Blue Team environments.*
+Onde estou agora: Brasil, último ano do ensino médio, aprendendo mandarim HSK2.
+Onde quero estar: universidade na China, pesquisando BCI.
+
+<br clear="right"/>
+
+---
+
+## 力 · O Que Estou Fazendo
+
+> *千里之行，始于足下*
+
+| Área | Status |
+|------|--------|
+| Python + ML | 📚 Aprendendo |
+| Rust embarcado | 📚 Aprendendo |
+| EEG / sinais neurais | 📚 Estudando |
+| Mandarim | 📚 HSK2 |
+| Arduino / ESP32 | 📚 Praticando |
+
+---
+
+## 力 · Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0a0805?style=for-the-badge&logo=python&logoColor=c9a227&labelColor=0a0805)
+![Rust](https://img.shields.io/badge/Rust-0a0805?style=for-the-badge&logo=rust&logoColor=c9a227&labelColor=0a0805)
+![Linux](https://img.shields.io/badge/Linux-0a0805?style=for-the-badge&logo=linux&logoColor=c9a227&labelColor=0a0805)
+
+</div>
+
+---
+
+## 力 · 普通话
+
+> *千里之行，始于足下*
+
+| Nível | Status |
+|-------|--------|
+| HSK 1 | ✅ |
+| HSK 2 | 📚 |
+| HSK 3 | 🎯 2026 |
+| HSK 4 | 🎯 2027 |
+
+---
+
+## 力 · Mapa
+
+```
+2026 ─── Fundamentos
+2027 ─── Certificações
+2028 ─── China → Universidade
+```
+
+---
+
+## 力 · exo-power-suit
+
+<img src="assets/banner1.png" width="100%" alt="exo-power-suit" />
+
+**[exo-power-suit](https://github.com/Lowingx/exo-power-suit)** é um exoesqueleto de perna com controle por EMG que reage mais rápido que o corpo humano.
+
+> *Construir pontes entre cérebro e máquina, uma perna de cada vez.*
+
+**[GitHub](https://github.com/Lowingx/exo-power-suit)** · **[Documentação](https://github.com/Lowingx/exo-power-suit#readme)**
+
+- EMG MyoWare 2.0 para detecção de intenção muscular
+- Predição 50ms antes do movimento
+- Safety MCU independente para emergências
+- Firmware em Rust para tempo real
+
+---
+
+<div align="center">
+
+**力**
+
+</div>
