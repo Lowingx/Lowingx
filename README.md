@@ -23,7 +23,7 @@
 Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
 
 Onde estou agora: Brasil, estudando, aprendendo HSK2.
-Onde quero estar: universidade na China, engenharia.
+Onde quero estar: universidade na China, engenharia biomedicina.
 
 <br clear="right"/>
 
