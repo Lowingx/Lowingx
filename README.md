@@ -12,7 +12,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lowingx-0a0805?style=for-the-badge&logo=github&logoColor=c9a227&labelColor=0a0805)](https://github.com/Lowingx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-🏳️‍⚧️-0a0805?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0a0805)](https://www.linkedin.com/in/gustavo-almeida-ti/)
-[![Discord](https://img.shields.io/badge/Discord-oni.huli__jung-0a0805?style=for-the-badge&logo=discord&logoColor=c9a227&labelColor=0a0805)](https://discord.com/users/oni.huli_jung)
+[![Discord](https://img.shields.io/badge/Discord-oni.huli__jung-0a0805?style=for-the-badge&logo=discord&logoColor=c9a227&labelColor=0a0805)](discord://discord.com/users/oni.huli_jung)
 
 </p>
 
