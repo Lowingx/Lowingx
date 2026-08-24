@@ -11,8 +11,8 @@
     --gold: #c9a227;
     --gold-dim: #8a7530;
     --text: #e8e4d8;
-    --muted: #8a8577;
-    --line: #26221a;
+    --muted: #7d7869;
+    --line: #221e16;
     --green: #9ecb5f;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -21,96 +21,93 @@
     background: var(--bg);
     color: var(--text);
     font-family: ui-monospace, 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;
-    font-size: 15px;
-    line-height: 1.8;
-  }
-  body::after {
-    content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 999;
-    background: repeating-linear-gradient(0deg, rgba(255,255,255,0.012) 0 1px, transparent 1px 3px);
+    font-size: 14px;
+    line-height: 1.95;
   }
   .enso {
     position: fixed; top: 50%; left: 50%; z-index: 0;
-    width: 82vmin; height: auto; transform: translate(-50%, -50%);
-    opacity: 0.07; pointer-events: none;
-    animation: ensobreathe 14s ease-in-out infinite;
+    width: 88vmin; height: auto; transform: translate(-50%, -50%);
+    opacity: 0.055; pointer-events: none;
+    animation: ensobreathe 22s ease-in-out infinite;
   }
-  @keyframes ensobreathe { 50% { opacity: 0.11; transform: translate(-50%,-50%) scale(1.015); } }
-  .wrap { position: relative; z-index: 1; max-width: 800px; margin: 0 auto; padding: 72px 28px 120px; }
+  @keyframes ensobreathe { 50% { opacity: 0.09; transform: translate(-50%,-50%) scale(1.012); } }
+
+  .kanji {
+    position: fixed; right: 30px; top: 50%; transform: translateY(-50%);
+    writing-mode: vertical-rl; letter-spacing: .55em;
+    color: var(--gold); opacity: .13; font-size: 19px;
+    user-select: none; pointer-events: none; z-index: 0;
+  }
+  .wrap { position: relative; z-index: 1; max-width: 700px; margin: 0 auto; padding: 96px 28px 130px; }
 
   .prompt { color: var(--text); white-space: nowrap; }
   .prompt::before { content: "guest@lowingx"; color: var(--green); }
   .prompt::after { content: ":~$"; color: var(--muted); margin-right: .65em; }
 
-  section { margin-top: 58px; }
-  .cmd { margin-bottom: 18px; }
+  section { margin-top: 76px; }
+  .cmd { margin-bottom: 20px; }
   h2.sr { position: absolute; left: -9999px; }
 
-  /* whoami */
-  .whoami { margin-top: 4px; }
-  .whoami .name { font-size: 27px; color: var(--gold); letter-spacing: .04em; }
-  .whoami .roles { margin-top: 8px; }
-  .whoami .meta { color: var(--muted); margin-top: 4px; font-size: 13.5px; }
-  .cursor { display: inline-block; width: 9px; height: 18px; background: var(--gold);
-            vertical-align: -3px; animation: blink 1.1s steps(1) infinite; }
+  .whoami .name { font-size: 26px; color: var(--gold); letter-spacing: .05em; }
+  .whoami .roles { margin-top: 10px; }
+  .whoami .meta { color: var(--muted); margin-top: 4px; font-size: 13px; }
+  .cursor { display: inline-block; width: 8px; height: 17px; background: var(--gold);
+            vertical-align: -3px; animation: blink 1.2s steps(1) infinite; }
   @keyframes blink { 50% { opacity: 0; } }
 
-  /* o caminho */
-  .way { margin-top: 6px; }
-  .way .zh { color: var(--gold); font-size: 17px; letter-spacing: .12em; }
+  .way { margin-top: 8px; }
+  .way .zh { color: var(--gold); font-size: 16px; letter-spacing: .18em; }
   .way .en { color: var(--text); }
-  .way .attr { color: var(--muted); font-size: 13px; margin-top: 10px; }
+  .way .attr { color: var(--muted); font-size: 12.5px; margin-top: 12px; }
 
-  /* projetos */
-  table.ls { width: 100%; border-collapse: collapse; font-size: 14px; }
-  table.ls td { padding: 10px 14px 10px 0; vertical-align: top; }
+  table.ls { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+  table.ls td { padding: 11px 14px 11px 0; vertical-align: top; }
   table.ls tr { border-bottom: 1px solid var(--line); }
   table.ls tr:last-child { border-bottom: none; }
   table.ls a { color: var(--gold); text-decoration: none; }
   table.ls a:hover { text-decoration: underline; text-underline-offset: 4px; }
   table.ls .perm { color: var(--muted); white-space: nowrap; }
-  table.ls .desc { color: var(--muted); display: block; font-size: 13px; }
+  table.ls .desc { color: var(--muted); display: block; font-size: 12.5px; }
   .tag { color: var(--gold-dim); border: 1px solid var(--line); border-radius: 3px;
-         padding: 0 6px; font-size: 11px; }
+         padding: 0 6px; font-size: 10.5px; }
 
-  /* roadmap */
   .log { list-style: none; }
-  .log li { padding: 2px 0; color: var(--muted); }
+  .log li { padding: 3px 0; color: var(--muted); }
   .log li::before { content: "· "; color: var(--gold); }
   .log b { color: var(--text); font-weight: 600; }
   .log .yr { color: var(--gold); }
 
-  /* contato */
-  .links { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 2px; }
+  .links { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 2px; }
   .links a { color: var(--text); text-decoration: none; }
   .links a::before { content: "→ "; color: var(--gold-dim); }
   .links a:hover { color: var(--gold); }
 
-  footer { margin-top: 72px; color: var(--muted); font-size: 13px; }
+  footer { margin-top: 96px; color: var(--muted); font-size: 13px; }
+  footer .unsui { margin-top: 14px; color: var(--gold-dim); letter-spacing: .3em; font-size: 12px; }
 
-  #music {
-    position: fixed; right: 22px; bottom: 22px; z-index: 1000;
-    width: 44px; height: 44px; border-radius: 50%;
-    background: transparent; border: 1px solid var(--gold-dim);
-    color: var(--gold); font-size: 16px; cursor: pointer;
-    transition: box-shadow .2s ease;
+  #snd {
+    position: fixed; right: 24px; bottom: 20px; z-index: 1000;
+    background: none; border: none; cursor: pointer;
+    color: var(--muted); font: inherit; font-size: 12px;
+    letter-spacing: .08em;
   }
-  #music:hover { box-shadow: 0 0 16px rgba(201,162,39,.3); }
-  #music.playing { animation: pulse 3.5s ease-in-out infinite; }
-  @keyframes pulse { 50% { box-shadow: 0 0 20px rgba(201,162,39,.4); } }
+  #snd:hover { color: var(--gold); }
 
   @media (prefers-reduced-motion: reduce) {
-    .cursor, #music.playing, .enso { animation: none; }
+    .cursor, .enso { animation: none; }
   }
-  @media (max-width: 640px) {
-    .wrap { padding: 40px 18px 90px; }
-    .whoami .name { font-size: 22px; }
+  @media (max-width: 720px) {
+    .kanji { display: none; }
+    .wrap { padding: 56px 20px 90px; }
+    .whoami .name { font-size: 21px; }
     table.ls .perm { display: none; }
-    section { margin-top: 46px; }
+    section { margin-top: 56px; }
   }
 </style>
 </head>
 <body>
 <img class="enso" src="assets/enso_gold.png" alt="" aria-hidden="true">
+<div class="kanji" aria-hidden="true">為道日損</div>
 <div class="wrap">
 
   <h2 class="sr">Whoami</h2>
@@ -193,26 +190,42 @@
 
   <footer>
     <span class="prompt"></span>exit
+    <div class="unsui">雲水 — cloud &amp; water</div>
   </footer>
 
 </div>
 
-<button id="music" aria-label="toggle ambient sound" title="zen ambience">♪</button>
-<audio id="zen" loop preload="none" src="assets/zen_loop.mp3"></audio>
+<button id="snd" aria-label="toggle sound">[ ♪ ]</button>
+<audio id="zen" loop preload="auto" src="assets/ambient.mp3"></audio>
 
 <script>
-  const btn = document.getElementById('music');
+  // tenta tocar com som; navegador bloqueando → toca mudo e oferece clique
   const audio = document.getElementById('zen');
-  btn.addEventListener('click', () => {
-    if (audio.paused) { audio.volume = 0.35; audio.play(); btn.textContent = '❚❚'; btn.classList.add('playing'); }
-    else { audio.pause(); btn.textContent = '♪'; btn.classList.remove('playing'); }
+  const snd = document.getElementById('snd');
+  audio.volume = 0.4;
+  const tryPlay = () => audio.play().catch(() => {
+    audio.muted = true;
+    audio.play().then(() => {
+      snd.textContent = '[ muted ]';
+      snd.onclick = () => { audio.muted = false; snd.textContent = '[ ♪ ]'; snd.onclick = toggle; };
+    }).catch(() => { snd.style.display = 'none'; });
   });
+  const toggle = () => {
+    if (audio.paused) { audio.play(); snd.textContent = '[ ♪ ]'; }
+    else { audio.pause(); snd.textContent = '[ off ]'; }
+  };
+  snd.onclick = toggle;
+  tryPlay();
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) audio.pause(); else if (!audio.muted || snd.textContent !== '[ off ]') tryPlay();
+  });
+
   const typed = document.querySelector('.typed');
   if (typed && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     const full = typed.dataset.text;
     typed.textContent = '';
     let i = 0;
-    (function type(){ if (i <= full.length){ typed.textContent = full.slice(0,i++); setTimeout(type, 90); } })();
+    (function type(){ if (i <= full.length){ typed.textContent = full.slice(0,i++); setTimeout(type, 100); } })();
   }
 </script>
 </body>
