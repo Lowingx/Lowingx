@@ -79,7 +79,7 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 
 <img align="right" width="200" src="assets/lotus.gif" alt="Lótus" />
 
-<img src="assets/banner1.png" width="100%" alt="exo-power-suit" />
+<img src="assets/kong.png" width="100%" alt="exo-power-suit" />
 
 **[exo-power-suit](https://github.com/Lowingx/exo-power-suit)** é um exoesqueleto de perna com controle por EMG que reage mais rápido que o corpo humano. Visão de longo prazo — nasce na fase Shenzhen.
 
