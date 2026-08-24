@@ -1,6 +1,6 @@
 <p align="center">
 
-<video src="assets/lotus.mp4" width="100%" autoplay muted loop playsinline alt="Lowingx"></video>
+<img src="assets/hero.svg" width="100%" alt="Lowingx" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## 愛 · Sobre Mim
 
-<img align="right" width="250" src="assets/enso.png" alt="Ensō" />
+<img align="right" width="250" src="assets/avatar.svg" alt="Lowingx" />
 
 Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
 
@@ -37,7 +37,7 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 | Rust embarcado | 🔨 [p02-rust-firmware](https://github.com/Lowingx/P02-Rust-Firmware) — `no_std` no ESP32 |
 | Eletrônica | ✅ [p01](https://github.com/Lowingx/P01-LED-Botao) → P02 → sinais |
 | EEG / sinais neurais | 📚 estudando |
-| Mandarim | 📚 HSK3 |
+| Mandarim | 📚 HSK3 — curso livre UNICAMP |
 
 ## 愛 · Stack
 
@@ -77,7 +77,7 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 
 ## 愛 · exo-power-suit
 
-<img src="assets/kong-ai.png" width="100%" alt="空 · 愛" />
+<img src="assets/banner1.png" width="100%" alt="exo-power-suit" />
 
 **[exo-power-suit](https://github.com/Lowingx/exo-power-suit)** é um exoesqueleto de perna com controle por EMG que reage mais rápido que o corpo humano. Visão de longo prazo — nasce na fase Shenzhen.
 
