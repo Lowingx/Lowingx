@@ -31,6 +31,15 @@
     content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 999;
     background: repeating-linear-gradient(0deg, rgba(255,255,255,0.015) 0 1px, transparent 1px 3px);
   }
+  /* ensō — o círculo zen atrás de tudo */
+  .enso {
+    position: fixed; top: 50%; left: 50%; z-index: 0;
+    width: 78vmin; height: auto; transform: translate(-50%, -50%);
+    opacity: 0.09; pointer-events: none;
+    animation: ensobreathe 12s ease-in-out infinite;
+  }
+  @keyframes ensobreathe { 50% { opacity: 0.13; transform: translate(-50%,-50%) scale(1.015); } }
+  .wrap { position: relative; z-index: 1; }
   .wrap { max-width: 880px; margin: 0 auto; padding: 48px 24px 96px; }
 
   /* janela de terminal */
@@ -132,6 +141,7 @@
 </style>
 </head>
 <body>
+<img class="enso" src="assets/enso_gold.png" alt="" aria-hidden="true">
 <div class="wrap">
   <div class="term" role="main">
     <div class="bar">
