@@ -37,7 +37,7 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 | Rust embarcado | 🔨 [p02-rust-firmware](https://github.com/Lowingx/P02-Rust-Firmware) — `no_std` no ESP32 |
 | Eletrônica | ✅ [p01](https://github.com/Lowingx/P01-LED-Botao) → P02 → sinais |
 | EEG / sinais neurais | 📚 estudando |
-| Mandarim | 📚 HSK3 — curso livre UNICAMP |
+| Mandarim | 📚 HSK3 |
 
 ## 愛 · Stack
 
