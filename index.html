@@ -16,13 +16,16 @@
     --green: #9ecb5f;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
   body {
     background: var(--bg);
     color: var(--text);
     font-family: ui-monospace, 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;
-    font-size: 14px;
-    line-height: 1.95;
+    font-size: 13.5px;
+    line-height: 1.85;
+  }
+  body::after {
+    content: ""; position: fixed; inset: 0; pointer-events: none; z-index: 999;
+    background: repeating-linear-gradient(0deg, rgba(255,255,255,0.016) 0 1px, transparent 1px 3px);
   }
   .enso {
     position: fixed; top: 50%; left: 50%; z-index: 0;
@@ -31,64 +34,61 @@
     animation: ensobreathe 22s ease-in-out infinite;
   }
   @keyframes ensobreathe { 50% { opacity: 0.09; transform: translate(-50%,-50%) scale(1.012); } }
-
   .kanji {
-    position: fixed; right: 30px; top: 50%; transform: translateY(-50%);
+    position: fixed; right: 26px; top: 50%; transform: translateY(-50%);
     writing-mode: vertical-rl; letter-spacing: .55em;
-    color: var(--gold); opacity: .13; font-size: 19px;
+    color: var(--gold); opacity: .12; font-size: 18px;
     user-select: none; pointer-events: none; z-index: 0;
   }
-  .wrap { position: relative; z-index: 1; max-width: 700px; margin: 0 auto; padding: 96px 28px 130px; }
+  .wrap { position: relative; z-index: 1; max-width: 760px; margin: 0 auto; padding: 80px 26px 110px; }
 
   .prompt { color: var(--text); white-space: nowrap; }
   .prompt::before { content: "guest@lowingx"; color: var(--green); }
   .prompt::after { content: ":~$"; color: var(--muted); margin-right: .65em; }
 
-  section { margin-top: 76px; }
-  .cmd { margin-bottom: 20px; }
+  section { margin-top: 64px; }
+  .cmd { margin-bottom: 16px; }
   h2.sr { position: absolute; left: -9999px; }
 
-  .whoami .name { font-size: 26px; color: var(--gold); letter-spacing: .05em; }
-  .whoami .roles { margin-top: 10px; }
-  .whoami .meta { color: var(--muted); margin-top: 4px; font-size: 13px; }
-  .cursor { display: inline-block; width: 8px; height: 17px; background: var(--gold);
+  .whoami .name { font-size: 25px; color: var(--gold); letter-spacing: .05em; }
+  .whoami .roles { margin-top: 8px; }
+  .whoami .meta { color: var(--muted); margin-top: 3px; font-size: 12.5px; }
+  .cursor { display: inline-block; width: 8px; height: 16px; background: var(--gold);
             vertical-align: -3px; animation: blink 1.2s steps(1) infinite; }
   @keyframes blink { 50% { opacity: 0; } }
 
-  .way { margin-top: 8px; }
-  .way .zh { color: var(--gold); font-size: 16px; letter-spacing: .18em; }
+  .way { margin-top: 6px; }
+  .way .zh { color: var(--gold); font-size: 15px; letter-spacing: .18em; }
   .way .en { color: var(--text); }
-  .way .attr { color: var(--muted); font-size: 12.5px; margin-top: 12px; }
+  .way .attr { color: var(--muted); font-size: 12px; margin-top: 10px; }
 
-  table.ls { width: 100%; border-collapse: collapse; font-size: 13.5px; }
-  table.ls td { padding: 11px 14px 11px 0; vertical-align: top; }
-  table.ls tr { border-bottom: 1px solid var(--line); }
-  table.ls tr:last-child { border-bottom: none; }
-  table.ls a { color: var(--gold); text-decoration: none; }
-  table.ls a:hover { text-decoration: underline; text-underline-offset: 4px; }
-  table.ls .perm { color: var(--muted); white-space: nowrap; }
-  table.ls .desc { color: var(--muted); display: block; font-size: 12.5px; }
-  .tag { color: var(--gold-dim); border: 1px solid var(--line); border-radius: 3px;
-         padding: 0 6px; font-size: 10.5px; }
+  /* ls -l real: texto puro, colunas no próprio texto */
+  pre.ls {
+    font: inherit; font-size: 12.5px; line-height: 2;
+    overflow-x: auto; color: var(--muted);
+  }
+  pre.ls a { color: var(--gold); text-decoration: none; }
+  pre.ls a:hover { text-decoration: underline; text-underline-offset: 4px; }
+  pre.ls .lang { color: var(--gold-dim); }
 
   .log { list-style: none; }
-  .log li { padding: 3px 0; color: var(--muted); }
+  .log li { padding: 2px 0; color: var(--muted); }
   .log li::before { content: "· "; color: var(--gold); }
   .log b { color: var(--text); font-weight: 600; }
   .log .yr { color: var(--gold); }
 
-  .links { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 2px; }
+  .links { display: flex; flex-wrap: wrap; gap: 18px; margin-top: 2px; }
   .links a { color: var(--text); text-decoration: none; }
   .links a::before { content: "→ "; color: var(--gold-dim); }
   .links a:hover { color: var(--gold); }
 
-  footer { margin-top: 96px; color: var(--muted); font-size: 13px; }
-  footer .unsui { margin-top: 14px; color: var(--gold-dim); letter-spacing: .3em; font-size: 12px; }
+  footer { margin-top: 88px; color: var(--muted); font-size: 12.5px; }
+  footer .unsui { margin-top: 14px; color: var(--gold-dim); letter-spacing: .3em; font-size: 11.5px; }
 
   #snd {
-    position: fixed; right: 24px; bottom: 20px; z-index: 1000;
+    position: fixed; right: 22px; bottom: 18px; z-index: 1000;
     background: none; border: none; cursor: pointer;
-    color: var(--muted); font: inherit; font-size: 12px;
+    color: var(--muted); font: inherit; font-size: 11.5px;
     letter-spacing: .08em;
   }
   #snd:hover { color: var(--gold); }
@@ -98,10 +98,10 @@
   }
   @media (max-width: 720px) {
     .kanji { display: none; }
-    .wrap { padding: 56px 20px 90px; }
-    .whoami .name { font-size: 21px; }
-    table.ls .perm { display: none; }
-    section { margin-top: 56px; }
+    .wrap { padding: 48px 16px 80px; }
+    .whoami .name { font-size: 20px; }
+    section { margin-top: 52px; }
+    pre.ls { font-size: 11px; }
   }
 </style>
 </head>
@@ -116,7 +116,7 @@
     <div class="whoami">
       <div class="name">Lowingx</div>
       <div class="roles">neural-engineering student &middot; embedded rust &middot; BCI</div>
-      <div class="meta">Brazil &rarr; Shenzhen, CN &middot; SUSTech Biomedical Engineering (2027)</div>
+      <div class="meta">brazil &rarr; shenzhen, cn &middot; sustech biomedical engineering (2027)</div>
       <div class="meta">one commit at a time<span class="cursor"></span></div>
     </div>
   </section>
@@ -133,39 +133,13 @@
 
   <h2 class="sr">Projects</h2>
   <section aria-label="projetos">
-    <div class="cmd"><span class="prompt"></span><span class="in">ls ~/projects</span></div>
-    <table class="ls">
-      <tr>
-        <td class="perm">drwxr-xr-x</td>
-        <td><a href="https://github.com/Lowingx/hypr-focuZ">focusZ/</a> <span class="tag">C++</span>
-          <span class="desc">Hyprland plugin — windows stack as Z-axis depth cards.</span></td>
-      </tr>
-      <tr>
-        <td class="perm">drwxr-xr-x</td>
-        <td><a href="https://github.com/Lowingx/P02-Rust-Firmware">p02-rust-firmware/</a> <span class="tag">Rust</span>
-          <span class="desc">no_std firmware on ESP32 — LM35 sensor to serial. step one toward implantables.</span></td>
-      </tr>
-      <tr>
-        <td class="perm">drwxr-xr-x</td>
-        <td><a href="https://github.com/Lowingx/NexusRecon">nexusrecon/</a> <span class="tag">Python</span>
-          <span class="desc">recon framework v5.0 — enum, crawl, nuclei 2-pass, PDF report.</span></td>
-      </tr>
-      <tr>
-        <td class="perm">drwxr-xr-x</td>
-        <td><a href="https://github.com/Lowingx/HoneyPot">honeypot/</a> <span class="tag">Python</span>
-          <span class="desc">threat detection — classify, fingerprint, score, correlate.</span></td>
-      </tr>
-      <tr>
-        <td class="perm">drwxr-xr-x</td>
-        <td><a href="https://github.com/Lowingx/LogAnalyzer">log-analyzer/</a> <span class="tag">Python</span>
-          <span class="desc">mini SIEM — sliding-window correlation, GeoIP, MITRE ATT&amp;CK tags.</span></td>
-      </tr>
-      <tr>
-        <td class="perm">drwxr-xr-x</td>
-        <td><a href="https://github.com/Lowingx/threat-intelligence-feed-parser">ti-feed-parser/</a> <span class="tag">Python</span>
-          <span class="desc">threat-intel feed consumer — enrichment the way a SOC analyst does it.</span></td>
-      </tr>
-    </table>
+    <div class="cmd"><span class="prompt"></span><span class="in">ls -l ~/projects</span></div>
+<pre class="ls">drwxr-xr-x  <a href="https://github.com/Lowingx/hypr-focuZ">focusZ/</a>             <span class="lang">c++</span>      hyprland plugin — z-axis depth cards
+drwxr-xr-x  <a href="https://github.com/Lowingx/P02-Rust-Firmware">p02-rust-firmware/</a>  <span class="lang">rust</span>     no_std esp32 — lm35 → serial. step one toward implantables
+drwxr-xr-x  <a href="https://github.com/Lowingx/NexusRecon">nexusrecon/</a>         <span class="lang">python</span>   recon framework v5.0 — enum, crawl, nuclei 2-pass, pdf
+drwxr-xr-x  <a href="https://github.com/Lowingx/HoneyPot">honeypot/</a>           <span class="lang">python</span>   threat detection — classify, fingerprint, score, correlate
+drwxr-xr-x  <a href="https://github.com/Lowingx/LogAnalyzer">log-analyzer/</a>       <span class="lang">python</span>   mini siem — brute-force &amp; 404-scan alerts, live attack generator
+drwxr-xr-x  <a href="https://github.com/Lowingx/threat-intelligence-feed-parser">ti-feed-parser/</a>     <span class="lang">python</span>   threat-intel feed consumer</pre>
   </section>
 
   <h2 class="sr">Roadmap</h2>
@@ -173,8 +147,8 @@
     <div class="cmd"><span class="prompt"></span><span class="in">tail roadmap.log</span></div>
     <ul class="log">
       <li><span class="yr">2026</span> — <b>foundations.</b> rust embedded · electronics · mandarin</li>
-      <li><span class="yr">2027</span> — <b>SUSTech, Shenzhen.</b> biomedical engineering</li>
-      <li><span class="yr">2032</span> — <b>B.Eng. BME.</b> biosignals, neural decoding</li>
+      <li><span class="yr">2027</span> — <b>sustech, shenzhen.</b> biomedical engineering</li>
+      <li><span class="yr">2032</span> — <b>b.eng. bme.</b> biosignals, neural decoding</li>
       <li><span class="yr">20xx</span> — <b>cyberware.</b> human-first neural interfaces</li>
     </ul>
   </section>
@@ -183,7 +157,7 @@
   <section aria-label="contato">
     <div class="cmd"><span class="prompt"></span><span class="in">contact --list</span></div>
     <div class="links">
-      <a href="https://github.com/Lowingx">github/Lowingx</a>
+      <a href="https://github.com/Lowingx">github/lowingx</a>
       <a href="mailto:lowingxx@proton.me">lowingxx@proton.me</a>
     </div>
   </section>
@@ -199,25 +173,40 @@
 <audio id="zen" loop preload="auto" src="assets/ambient.mp3"></audio>
 
 <script>
-  // tenta tocar com som; navegador bloqueando → toca mudo e oferece clique
   const audio = document.getElementById('zen');
   const snd = document.getElementById('snd');
+  let userPaused = false;
+
+  function upd() {
+    snd.textContent = audio.paused ? '[ off ]' : (audio.muted ? '[ muted ]' : '[ ♪ ]');
+  }
+  function start() {
+    audio.play().then(upd).catch(() => {
+      // navegador vetou som → toca mudo; primeiro clique destrava
+      if (!audio.muted) { audio.muted = true; }
+      audio.play().then(upd).catch(() => {});
+    });
+  }
+
   audio.volume = 0.4;
-  const tryPlay = () => audio.play().catch(() => {
-    audio.muted = true;
-    audio.play().then(() => {
-      snd.textContent = '[ muted ]';
-      snd.onclick = () => { audio.muted = false; snd.textContent = '[ ♪ ]'; snd.onclick = toggle; };
-    }).catch(() => { snd.style.display = 'none'; });
-  });
-  const toggle = () => {
-    if (audio.paused) { audio.play(); snd.textContent = '[ ♪ ]'; }
-    else { audio.pause(); snd.textContent = '[ off ]'; }
-  };
-  snd.onclick = toggle;
-  tryPlay();
-  document.addEventListener('visibilitychange', () => {
-    if (document.hidden) audio.pause(); else if (!audio.muted || snd.textContent !== '[ off ]') tryPlay();
+  start();
+  upd();
+
+  // primeiro gesto do usuário = permissão de som
+  function unlock(e) {
+    if (e.target && e.target.closest && e.target.closest('#snd')) return;
+    audio.muted = false;
+    if (audio.paused && !userPaused) start(); else upd();
+    window.removeEventListener('pointerdown', unlock);
+    window.removeEventListener('keydown', unlock);
+  }
+  window.addEventListener('pointerdown', unlock);
+  window.addEventListener('keydown', unlock);
+
+  snd.addEventListener('click', (e) => {
+    e.stopPropagation();
+    if (audio.paused) { userPaused = false; audio.muted = false; start(); }
+    else { userPaused = true; audio.pause(); upd(); }
   });
 
   const typed = document.querySelector('.typed');
