@@ -6,6 +6,8 @@
 
 # Lowingx
 
+<img align="right" width="120" src="assets/lotus.gif" alt="Lótus" />
+
 ### 神经工程 · Estudante de Engenharia Neural
 
 ### Neural engineering student · Rust embedded · BCI · Shenzhen-bound
@@ -17,7 +19,6 @@
 
 ## 愛 · Sobre Mim
 
-<img align="right" width="120" src="assets/lotus.gif" alt="Lótus" />
 <img align="right" width="200" src="assets/enso_gold.png" alt="Ensō" />
 
 Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
