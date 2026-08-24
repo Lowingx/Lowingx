@@ -17,7 +17,7 @@
 
 ## 愛 · Sobre Mim
 
-<img align="right" width="250" src="assets/enso_gold.png" alt="Ensō" />
+<img align="right" width="300" src="assets/enso_lotus.png" alt="Ensō + Lótus" />
 
 Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
 
@@ -77,9 +77,7 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 
 ## 愛 · exo-power-suit
 
-<img align="right" width="200" src="assets/lotus.gif" alt="Lótus" />
-
-<img src="assets/kong.png" width="100%" alt="exo-power-suit" />
+<img src="assets/kong.png" width="100%" alt="空" />
 
 **[exo-power-suit](https://github.com/Lowingx/exo-power-suit)** é um exoesqueleto de perna com controle por EMG que reage mais rápido que o corpo humano. Visão de longo prazo — nasce na fase Shenzhen.
 
