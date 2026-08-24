@@ -90,8 +90,4 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 - Safety MCU independente para emergências
 - Firmware em Rust para tempo real
 
-<p align="center">
-
-**愛**
-
-</p>
+<h1 align="center">愛</h1>
