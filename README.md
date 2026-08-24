@@ -8,7 +8,7 @@
 
 ### 神经工程 · Estudante de Engenharia Neural
 
-*"O corpo é o último hardware não documentado."*
+### Neural engineering student · Rust embedded · BCI · Shenzhen-bound
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lowingx-0a0805?style=for-the-badge&logo=github&logoColor=c9a227&labelColor=0a0805)](https://github.com/Lowingx)
 [![Discord](https://img.shields.io/badge/Discord-oni.huli__jung-0a0805?style=for-the-badge&logo=discord&logoColor=c9a227&labelColor=0a0805)](discord://discord.com/users/oni.huli_jung)
