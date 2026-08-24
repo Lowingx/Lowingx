@@ -17,7 +17,7 @@
 
 ## 愛 · Sobre Mim
 
-<img align="right" width="250" src="assets/avatar.svg" alt="Lowingx" />
+<img align="right" width="250" src="assets/enso_gold.png" alt="Ensō" />
 
 Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
 
@@ -76,6 +76,8 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 ```
 
 ## 愛 · exo-power-suit
+
+<img align="right" width="200" src="assets/lotus.gif" alt="Lótus" />
 
 <img src="assets/banner1.png" width="100%" alt="exo-power-suit" />
 
