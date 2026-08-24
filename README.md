@@ -21,22 +21,23 @@
 
 Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
 
-Onde estou agora: Brasil, estudando, aprendendo HSK2.
-Onde quero estar: universidade na China, engenharia biomedicina.
+Onde estou agora: Brasil — portfólio, HSK3, eletrônica.
+Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 
 <br clear="right"/>
 
 ## 愛 · O Que Estou Fazendo
 
-> *千里之行，始于足下*
+> *為學日益，為道日損* — estudar: somar a cada dia; o caminho: subtrair
 
 | Área | Status |
 |------|--------|
-| Python + ML | 📚 Aprendendo |
-| Rust embarcado | 📚 Aprendendo |
-| EEG / sinais neurais | 📚 Estudando |
-| Mandarim | 📚 HSK2 |
-| Arduino / ESP32 | 📚 Praticando |
+| C++ / Wayland | ✅ [focusZ](https://github.com/Lowingx/hypr-focuZ) — plugin Hyprland com CI e demo |
+| Blue Team / SOC | ✅ [honeypot](https://github.com/Lowingx/HoneyPot) · [log-analyzer](https://github.com/Lowingx/LogAnalyzer) · [nexusrecon](https://github.com/Lowingx/NexusRecon) |
+| Rust embarcado | 🔨 [p02-rust-firmware](https://github.com/Lowingx/P02-Rust-Firmware) — `no_std` no ESP32 |
+| Eletrônica | ✅ [p01](https://github.com/Lowingx/P01-LED-Botao) → P02 → sinais |
+| EEG / sinais neurais | 📚 estudando |
+| Mandarim | 📚 HSK3 — curso livre UNICAMP |
 
 ## 愛 · Stack
 
@@ -62,22 +63,23 @@ Onde quero estar: universidade na China, engenharia biomedicina.
 |-------|--------|
 | HSK 1 | ✅ |
 | HSK 2 | 📚 |
-| HSK 3 | 🎯 2026 |
-| HSK 4 | 🎯 2027 |
+| HSK 3 | 🎯 dez/2026 |
+| HSK 4 | 🎯 fev/2027 |
 
 ## 愛 · Mapa
 
 ```
-2026 ─── Fundamentos
-2027 ─── Certificações
-2028 ─── China → Universidade
+2026 ─── fundamentos · portfólio · documentos
+2027 ─── Shenzhen → SUSTech (ano preparatório)
+2028 ─── BME · laboratório
+20xx ─── cyberware
 ```
 
 ## 愛 · exo-power-suit
 
 <img src="assets/banner1.png" width="100%" alt="exo-power-suit" />
 
-**[exo-power-suit](https://github.com/Lowingx/exo-power-suit)** é um exoesqueleto de perna com controle por EMG que reage mais rápido que o corpo humano.
+**[exo-power-suit](https://github.com/Lowingx/exo-power-suit)** é um exoesqueleto de perna com controle por EMG que reage mais rápido que o corpo humano. Visão de longo prazo — nasce na fase Shenzhen.
 
 > *Construir pontes entre cérebro e máquina, uma perna de cada vez.*
 
