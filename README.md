@@ -15,11 +15,10 @@
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-🏳️‍⚧️-0a0805?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0a0805)](https://www.linkedin.com/in/gustavo-almeida-ti/)-->
 </p>
 
-<img src="assets/lotus.gif" width="100%" alt="Lótus" />
-
 ## 愛 · Sobre Mim
 
-<img align="right" width="250" src="assets/enso_gold.png" alt="Ensō" />
+<img align="right" width="120" src="assets/lotus.gif" alt="Lótus" />
+<img align="right" width="200" src="assets/enso_gold.png" alt="Ensō" />
 
 Estudante do último ano do ensino médio no Brasil. Aprendendo programação, eletrônica e mandarim enquanto construo o caminho para a China.
 
