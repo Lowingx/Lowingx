@@ -6,7 +6,7 @@
 
 # Lowingx
 
-<img align="right" width="120" src="assets/lotus.gif" alt="Lótus" />
+<img align="right" width="100" src="assets/lotus.gif" alt="Lótus" />
 
 ### 神经工程 · Estudante de Engenharia Neural
 
