@@ -13,11 +13,8 @@
 ### Neural engineering student · Rust embedded · BCI · Shenzhen-bound
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lowingx-0a0805?style=for-the-badge&logo=github&logoColor=c9a227&labelColor=0a0805)](https://github.com/Lowingx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--almeida--ti-0a0805?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0a0805)](https://www.linkedin.com/in/gustavo-almeida-ti/)
 [![Discord](https://img.shields.io/badge/Discord-oni.huli__jung-0a0805?style=for-the-badge&logo=discord&logoColor=c9a227&labelColor=0a0805)](discord://discord.com/users/oni.huli_jung)
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-🏳️‍⚧️-0a0805?style=for-the-badge&logo=linkedin&logoColor=c9a227&labelColor=0a0805)](https://www.linkedin.com/in/gustavo-almeida-ti/)-->
-</p>
-</p>
-
 </p>
 
 ## 愛 · Sobre Mim
@@ -39,7 +36,10 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 |------|--------|
 | C++ / Wayland | ✅ [focusZ](https://github.com/Lowingx/hypr-focuZ) — plugin Hyprland com CI e demo |
 | Blue Team / SOC | ✅ [honeypot](https://github.com/Lowingx/HoneyPot) · [log-analyzer](https://github.com/Lowingx/LogAnalyzer) · [nexusrecon](https://github.com/Lowingx/NexusRecon) |
+| Threat intel | ✅ [ti-feed-parser](https://github.com/Lowingx/threat-intelligence-feed-parser) — parsing e normalização de feeds de TI |
 | Rust embarcado | 🔨 [p02-rust-firmware](https://github.com/Lowingx/P02-Rust-Firmware) — `no_std` no ESP32 |
+| Java / dados | 🔨 [hypercube](https://github.com/Lowingx/hypercube) |
+| TypeScript | ✅ [gerenciador-biblioteca](https://github.com/Lowingx/gerenciador-biblioteca-egm) — gestão bibliotecária, foco em motivação de leitura (Projeto EGM) |
 | Eletrônica | ✅ [p01](https://github.com/Lowingx/P01-LED-Botao) → P02 → sinais |
 | EEG / sinais neurais | 📚 estudando |
 | Mandarim | 📚 HSK3 — curso livre UNICAMP |
@@ -51,6 +51,8 @@ Onde vou estar: SUSTech, Shenzhen — Engenharia Biomédica (2027).
 ![Python](https://img.shields.io/badge/Python-0a0805?style=for-the-badge&logo=python&logoColor=c9a227&labelColor=0a0805)
 ![Rust](https://img.shields.io/badge/Rust-0a0805?style=for-the-badge&logo=rust&logoColor=c9a227&labelColor=0a0805)
 ![C++](https://img.shields.io/badge/C++-0a0805?style=for-the-badge&logo=cplusplus&logoColor=c9a227&labelColor=0a0805)
+![Java](https://img.shields.io/badge/Java-0a0805?style=for-the-badge&logo=openjdk&logoColor=c9a227&labelColor=0a0805)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0805?style=for-the-badge&logo=typescript&logoColor=c9a227&labelColor=0a0805)
 ![Linux](https://img.shields.io/badge/Linux-0a0805?style=for-the-badge&logo=linux&logoColor=c9a227&labelColor=0a0805)
 ![Git](https://img.shields.io/badge/Git-0a0805?style=for-the-badge&logo=git&logoColor=c9a227&labelColor=0a0805)
 ![Arduino](https://img.shields.io/badge/Arduino-0a0805?style=for-the-badge&logo=arduino&logoColor=c9a227&labelColor=0a0805)
